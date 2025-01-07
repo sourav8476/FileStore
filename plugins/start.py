@@ -103,8 +103,8 @@ async def start_command(client: Client, message: Message):
         reply_markup = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('⚡️ ᴍᴏᴠɪᴇs', url='https://t.me/bdmoviezonepro'),
-                    InlineKeyboardButton('🍁 sᴇʀɪᴇs', url='https://t.me/backupmoviezone')
+                    InlineKeyboardButton('⚡️ ᴍᴏᴠɪᴇs', url='https://t.me/backupmoviezone'),
+                    InlineKeyboardButton('🔞 𝐌𝐎𝐑𝐄 𝐀𝐃𝐔𝐋𝐓', url='https://t.me/javchindoadultvideo')
                 ]
             ]
         )
